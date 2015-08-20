@@ -10,6 +10,7 @@
 	- [Is Shipped UI free?](#user-content-is-shipped-ui-free)
 	- [What is Shipped UI?](#user-content-what-is-shipped-ui)
 	- [Where can I find the Shipped UI?](#user-content-where-can-i-find-the-shipped-ui)
+	- [What operating systems does Shipped UI support?](#user-content-what-operating-systems-does-shipped-ui-support)
 	- [Why does Shipped UI need access to my Github Account?](#user-content-why-does-shipped-need-access-to-my-github-account)
 	- [Do I need to install Shipped CLI](#user-content-do-i-need-to-install-shipped-cli)
 - [Shared Technologies](#user-content-shared-technologies)
@@ -47,6 +48,10 @@ Shipped is a Cisco Development Portal which provides us with an integrated devel
 ### Where can I find the Shipped UI? ###  
 
 Follow this link to the find [Shipped UI Development Portal](http://ciscocloud.github.io/shipped/dist/#)
+
+### What operating systems does Shipped UI support ###
+
+The Shipped UI development platform supports Windows, Macintosh OS, and Linux.
 
 ### Why does Shipped UI need access to my Github Account ###
 
@@ -89,7 +94,7 @@ The Shipped CLI is a full featured command-line utility for interacting with Shi
 
 ### How to download Shipped CLI ###
 
-curl http://shipped-api.shipped-cisco.com/cli/static/shipped.sh | bash -s
+The links to operating system specific download locations can be found in the README located at https://github.com/CiscoCloud/shipped-cli. Windows, Macintosh, and Linux downloads are available.
 
 ## Shipped API ##
 

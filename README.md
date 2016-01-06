@@ -48,7 +48,7 @@ What did you think of this learning lab [Shipped 100 Intro to Shipped](https://l
 What did you think of this learning lab [Shipped 101 Create your First Project](https://learninglabs.cisco.com/lab/shipped-101-first-project/step/1)? Was it too hard? Too easy? Too short? Too long? Just right? Was there other information you felt we should have included? Please provide us with feedback by opening an [Issue](https://github.com/CiscoCloud/shipped-feedback/issues)!
 
 ### Feedback on Shipped 102: Creating a CMX Project###
-What did you think of this learning lab [Shipped 102: Creating a CMX Project](https://learninglabs.cisco.com/lab/shipped-100-intro-shipped/step/1)? Was it too hard? Too easy? Too short? Too long? Just right? Was there other information you felt we should have included? Please provide us with feedback by opening an [Issue](https://learninglabs.cisco.com/lab/shipped-102-cmx-project/step/1)!
+What did you think of this learning lab [Shipped 102: Creating a CMX Project](https://learninglabs.cisco.com/lab/shipped-102-cmx-project/step/1)? Was it too hard? Too easy? Too short? Too long? Just right? Was there other information you felt we should have included? Please provide us with feedback by opening an [Issue](https://github.com/CiscoCloud/shipped-feedback/issues)!
 
 ### Feedback on other learning labs###
 What did you think of any other specific learning lab? Was it too hard? Too easy? Too short? Too long? Just right? Was there other information you felt we should have included? Please provide us with feedback by opening an [Issue](https://learninglabs.cisco.com/lab/shipped-102-cmx-project/step/1)! Be sure to mention which lab it was!
